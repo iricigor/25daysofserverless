@@ -21,7 +21,10 @@ What are you waiting for? Let's go save the holidays!
 
 ## My projects
 
-TBD
+example
+```PowerShell
+Invoke-RestMethod -Method Get -Uri 'https://ii-faf.azurewebsites.net/api/HttpTrigger?code=bzx0TVwsDFBhEyqPGMee1ULF0AVqbaqQjeUkHAXZcDWhflQucfhbXw==&Name=Jelena'
+```
 
 ## About me
 
