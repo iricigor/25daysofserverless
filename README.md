@@ -21,9 +21,14 @@ What are you waiting for? Let's go save the holidays!
 
 ## My projects
 
-example
+### example
 ```PowerShell
 Invoke-RestMethod -Method Get -Uri 'https://ii-faf.azurewebsites.net/api/HttpTrigger?code=bzx0TVwsDFBhEyqPGMee1ULF0AVqbaqQjeUkHAXZcDWhflQucfhbXw==&Name=Jelena'
+```
+
+### day 01  - [code](./day01/day01/run.ps1)
+```PowerShell
+irm https://ii-25dos.azurewebsites.net/api/day01
 ```
 
 ## About me
