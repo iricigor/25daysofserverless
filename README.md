@@ -1,4 +1,7 @@
 # 25 Days of Serverless
+
+https://aka.ms/25DaysOfServerless
+
 https://25daysofserverless.com
 
 ## Introduction
